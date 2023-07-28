@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aidan-Mulholland
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning the Django framework
+- 👀 I’m interested in Web development and AI
+- 🌱 I’m currently working at Zing Dev Ltd as a Junior Developer
 - 📫 You can reach me via my email aidanmulholland89@gmail.com
 
 <!---

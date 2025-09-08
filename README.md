@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aidan-Mulholland
 - 👀 I’m interested in Web development and AI
-- 🌱 I’m currently finishing my final year at Loughborough University
+- 🌱 I’m currently working as a Software Engineer at AlphaSights
 - 📫 You can reach me via my email aidanmulholland89@gmail.com
 
 <!---
